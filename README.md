@@ -4,7 +4,7 @@ issue-analyzer
 
 issue-analyzer helps to analyze GitHub repo issue counts over time.
 
-The idea is inspired by blog [Analyzing Julia's issue counts over time](http://iaindunning.com/blog/juliaissuecount.html). It is helpful for developers to understand current status of issues in projects, so issue-analyzer is written to faciliate this process.
+The idea is inspired by blog [Analyzing Julia's issue counts over time](https://web.archive.org/web/20170409054530/iaindunning.com/blog/juliaissuecount.html). It is helpful for developers to understand current status of issues in projects, so issue-analyzer is written to faciliate this process.
 
 issue-analyzer should be able to display more aspects of a project. Suggestions and PRs are always welcome.
 
